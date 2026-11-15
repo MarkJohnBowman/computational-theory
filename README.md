@@ -18,6 +18,7 @@ Each problem has markdown explaining what I did and why, with the code and tests
 - **Problem 1:** How I represent the data SHA-256 uses in Python (words, messages, blocks and the hash).
 - **Problem 2:** The bitwise functions SHA-256 uses (Ch, Maj, Σ0, Σ1, σ0 and σ1).
 - **Problem 3:** Generating the 64 round constants from the cube roots of the first 64 primes, and checking them against the standard.
+- **Problem 4:** Padding a message and splitting it into 512-bit blocks of sixteen 32-bit words.
 
 ## How to run it
 
